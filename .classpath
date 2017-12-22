@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/spring-core-4.1.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-websocket-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-webmvc-portlet-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-messaging-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-jms-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-instrument-tomcat-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-aspects-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/jars/sjars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-websocket-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-websocket-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-websocket-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-webmvc-portlet-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-webmvc-portlet-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-webmvc-portlet-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-webmvc-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-webmvc-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-web-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-web-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-tx-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-tx-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-tx-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-test-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-test-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-test-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-oxm-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-oxm-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-oxm-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-orm-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-orm-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-orm-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-messaging-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-messaging-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-messaging-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-jms-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-jms-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-jms-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-jdbc-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-jdbc-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-jdbc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-instrument-tomcat-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-instrument-tomcat-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-instrument-tomcat-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-instrument-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-instrument-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-instrument-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-expression-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-expression-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-core-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-core-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-context-support-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-context-support-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-context-support-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-context-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-context-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-beans-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-beans-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-aspects-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-aspects-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-aspects-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-aop-4.3.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-aop-4.3.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/sarang/Spring/spring/Final Jars/Spring/libs/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
